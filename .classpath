@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SALVIO.005867/Github/PDFwriter/Apache pdf 2/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SALVIO.005867/Github/PDFwriter/Apache pdf 2/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SALVIO.005867/Github/PDFwriter/Apache pdf 2/fontbox-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SALVIO.005867/Github/PDFwriter/Apache pdf 2/pdfbox-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SALVIO.005867/Github/PDFwriter/Apache pdf 2/pdfbox-debugger-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SALVIO.005867/Github/PDFwriter/Apache pdf 2/pdfbox-tools-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SALVIO.005867/Github/PDFwriter/Apache pdf 2/preflight-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SALVIO.005867/Github/PDFwriter/Apache pdf 2/xmpbox-2.0.27.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
